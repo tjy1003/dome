@@ -4,5 +4,5 @@ git fisrt add file
 git fisrt add file
 git fisrt add file
 git fisrt add file
-git fisrt add file
+git fisrt add file hot-fix text
 git fisrt add file
