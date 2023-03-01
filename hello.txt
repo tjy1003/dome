@@ -8,3 +8,4 @@ git fisrt add file master test
 git fisrt add file hot-fix text
 11111111111111111111111111111
 push push commmit 
+test test commit
